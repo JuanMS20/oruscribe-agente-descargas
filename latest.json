@@ -1,9 +1,9 @@
 {
-  "version": "0.3.0",
-  "notes": "Piel de la web, avances con archivo y comentarios",
-  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.3.0/Oruscribe.Agente.exe",
-  "windows_sha256": "cd7b97b7cc6adff1389a13646475fc330926619dddf2c0b1c6b30718b51b48b9",
-  "sha256": "cd7b97b7cc6adff1389a13646475fc330926619dddf2c0b1c6b30718b51b48b9",
-  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.3.0/oruscribe-agente-linux",
-  "linux_sha256": "32dc85ffb60852295e010c4c0ca9dd259414cc49670208a9a043639e7d4cf5a0"
+  "version": "0.4.0",
+  "notes": "La app abre al instante con lo ultimo visto, renueva la sesion sola y suma seguimiento con estado y gantt, periodos, puesta al dia y chat con adjuntos y mensajes directos.",
+  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.4.0/Oruscribe.Agente.exe",
+  "windows_sha256": "336730bf2ab8c382eaa5a6176c3a26ac696eff83d1e0556404efd347a1b0d169",
+  "sha256": "336730bf2ab8c382eaa5a6176c3a26ac696eff83d1e0556404efd347a1b0d169",
+  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.4.0/oruscribe-agente-linux",
+  "linux_sha256": "ae847ae2cfaa51a838ea28c95afc55c02ff22c72e2e4565fe740ad66b9732c7b"
 }
