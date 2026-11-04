@@ -1,0 +1,9 @@
+{
+  "version": "0.3.0",
+  "notes": "Piel de la web, avances con archivo y comentarios",
+  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.3.0/Oruscribe%20Agente.exe",
+  "windows_sha256": "cd7b97b7cc6adff1389a13646475fc330926619dddf2c0b1c6b30718b51b48b9",
+  "sha256": "cd7b97b7cc6adff1389a13646475fc330926619dddf2c0b1c6b30718b51b48b9",
+  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.3.0/oruscribe-agente-linux",
+  "linux_sha256": "32dc85ffb60852295e010c4c0ca9dd259414cc49670208a9a043639e7d4cf5a0"
+}
