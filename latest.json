@@ -1,9 +1,9 @@
 {
-  "version": "0.4.0",
-  "notes": "La app abre al instante con lo ultimo visto, renueva la sesion sola y suma seguimiento con estado y gantt, periodos, puesta al dia y chat con adjuntos y mensajes directos.",
-  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.4.0/Oruscribe.Agente.exe",
-  "windows_sha256": "336730bf2ab8c382eaa5a6176c3a26ac696eff83d1e0556404efd347a1b0d169",
-  "sha256": "336730bf2ab8c382eaa5a6176c3a26ac696eff83d1e0556404efd347a1b0d169",
-  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.4.0/oruscribe-agente-linux",
-  "linux_sha256": "ae847ae2cfaa51a838ea28c95afc55c02ff22c72e2e4565fe740ad66b9732c7b"
+  "version": "0.4.1",
+  "notes": "Linux sin panic: la app avisa como instalar webkitgtk y suma paquetes nativos (deb, rpm, Arch) con dependencias declaradas. El chat muestra fotos de perfil, mas reacciones y descripciones con formato. El token ya no cruza redirecciones de otro host y el timbre respeta canales privados.",
+  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.4.1/Oruscribe.Agente.exe",
+  "windows_sha256": "6db4e14d42978f87da91130abb83963139c3d595627aa98fc0a6c6562bb0e746",
+  "sha256": "6db4e14d42978f87da91130abb83963139c3d595627aa98fc0a6c6562bb0e746",
+  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.4.1/oruscribe-agente-linux",
+  "linux_sha256": "549c15de1b5f9ac3604674336be7399e9f6698fbecef10934c7c52aef7cbe992"
 }
