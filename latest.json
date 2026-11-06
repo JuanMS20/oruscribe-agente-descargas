@@ -1,9 +1,9 @@
 {
-  "version": "0.5.2",
-  "notes": "La sala abierta se refresca aunque el timbre no avise; los avisos aparecen al enviarlos; la cuenta no duplica sus refrescos; sistema inmunologico completo",
-  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.5.2/Oruscribe.Agente.exe",
-  "windows_sha256": "e6d04bc254655753e8f35bfa15d93a6a9099498e879e9b3ae7fc5577432cfe8d",
-  "sha256": "e6d04bc254655753e8f35bfa15d93a6a9099498e879e9b3ae7fc5577432cfe8d",
-  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.5.2/oruscribe-agente-linux",
-  "linux_sha256": "0ff751cd2348fb74b1f1d1215b48980e2db24acacc11a7cf5f2e0d9c89efef55"
+  "version": "0.5.3",
+  "notes": "Estados y proveedores del agente bajo prueba; fotos de perfil que sobreviven a la actualizacion; guardas contra cambios a mitad de ejecucion y actualizaciones dobles",
+  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.5.3/Oruscribe.Agente.exe",
+  "windows_sha256": "59fb47d027c95607f8eae9d2a48304986d126ac3d9e7a7c49a20032d71e176ab",
+  "sha256": "59fb47d027c95607f8eae9d2a48304986d126ac3d9e7a7c49a20032d71e176ab",
+  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.5.3/oruscribe-agente-linux",
+  "linux_sha256": "fce99e076d237c61a64841986a2da40fffb4bc56b42904f1c9b4c662a20696c2"
 }
