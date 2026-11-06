@@ -1,9 +1,9 @@
 {
-  "version": "0.4.2",
-  "notes": "Los paquetes de Linux ya se instalan listos para abrir con un clic. Configuracion vuelve a abrir, la sesion se renueva sola al abrir la app, actualizar funciona en Windows y verifica la descarga, y cerrar sesion limpia los datos de la cuenta anterior.",
-  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.4.2/Oruscribe.Agente.exe",
-  "windows_sha256": "f82d715f66c233fea25366b0116095120f3b03a8f7c4133228330a7cd1e12f12",
-  "sha256": "f82d715f66c233fea25366b0116095120f3b03a8f7c4133228330a7cd1e12f12",
-  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.4.2/oruscribe-agente-linux",
-  "linux_sha256": "ae7bb162ba7699dee6888d30f247912d27375789c8f7cdeead5b3920936beb08"
+  "version": "0.5.0",
+  "notes": "La ventana se ordena como arnes: entrada por atencion, agente usable y mapa con leyenda",
+  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.5.0/Oruscribe.Agente.exe",
+  "windows_sha256": "95be54faa5c3ea2ebbd539a14e55ff433a3d96f18c7a7be752062de204eb96cc",
+  "sha256": "95be54faa5c3ea2ebbd539a14e55ff433a3d96f18c7a7be752062de204eb96cc",
+  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.5.0/oruscribe-agente-linux",
+  "linux_sha256": "f46ab4fbff714ae1f6c759e30a4cc8c18be45fb574aea9971a9b5fe142f5402a"
 }
