@@ -1,9 +1,9 @@
 {
   "version": "0.5.4",
-  "notes": "Arnes del agente y chat con imagenes y adjuntos; cierre de la auditoria 0.5.3: imagenes al arrancar, visor con tipo y descarga, IA de la organizacion que no toca el arnes local, bloc sin escritura anonima y guardados sin carreras",
+  "notes": "Arnes del agente y chat con imagenes y adjuntos; cierre de la auditoria 0.5.3; arnes sin ventana: salida redirigida conservada, undo y rules visibles y errores tempranos como eventos JSON",
   "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.5.4/Oruscribe.Agente.exe",
-  "windows_sha256": "03026fac265db05137aa3449a78f60011f923692f00b30a6fd394488d95d0258",
-  "sha256": "03026fac265db05137aa3449a78f60011f923692f00b30a6fd394488d95d0258",
+  "windows_sha256": "d88ca932d5b2a17a4c173a4d1c7ae4c4899ca97b33ed8d0cdbcbaff1d034fafa",
+  "sha256": "d88ca932d5b2a17a4c173a4d1c7ae4c4899ca97b33ed8d0cdbcbaff1d034fafa",
   "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.5.4/oruscribe-agente-linux",
-  "linux_sha256": "ece94d16e440cb4ea5e25404ee75e1a31c18060334813e8963eb53e3603db2af"
+  "linux_sha256": "7bef0c6efa123f43451c442c9f70609cb93c4dc72565b43e447f009fa7a8abd6"
 }
