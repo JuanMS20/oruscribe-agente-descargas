@@ -1,9 +1,9 @@
 {
-  "version": "0.5.3",
-  "notes": "Estados y proveedores del agente bajo prueba; fotos de perfil que sobreviven a la actualizacion; guardas contra cambios a mitad de ejecucion y actualizaciones dobles",
-  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.5.3/Oruscribe.Agente.exe",
-  "windows_sha256": "59fb47d027c95607f8eae9d2a48304986d126ac3d9e7a7c49a20032d71e176ab",
-  "sha256": "59fb47d027c95607f8eae9d2a48304986d126ac3d9e7a7c49a20032d71e176ab",
-  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.5.3/oruscribe-agente-linux",
-  "linux_sha256": "fce99e076d237c61a64841986a2da40fffb4bc56b42904f1c9b4c662a20696c2"
+  "version": "0.5.4",
+  "notes": "Arnes del agente y chat con imagenes y adjuntos; cierre de la auditoria 0.5.3: imagenes al arrancar, visor con tipo y descarga, e IA de la organizacion que no toca el arnes local",
+  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.5.4/Oruscribe.Agente.exe",
+  "windows_sha256": "8d811776dd57d826c2226d669b0d15bcf80dcf96cb0176deaee98e18c97c5121",
+  "sha256": "8d811776dd57d826c2226d669b0d15bcf80dcf96cb0176deaee98e18c97c5121",
+  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.5.4/oruscribe-agente-linux",
+  "linux_sha256": "9c101c25c5ee87428f7ae4aab95256be49aae9bfe5449c468285c2aee8d4fdb2"
 }
