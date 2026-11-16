@@ -1,8 +1,8 @@
 {
   "version": "0.6.0",
-  "notes": "La app pasa de Go a Rust. Timbre en vivo por doorbell, tope de lecturas MCP compartido, fotos de perfil arregladas de raíz, recarga del chat y del timbre con topes, y preparado el terreno para Linux.",
+  "notes": "La app pasa de Go a Rust. Timbre en vivo por doorbell, tope de lecturas MCP compartido, fotos de perfil arregladas de raíz, recarga del chat y del timbre con topes, y Linux con el mismo instalador portable de siempre.",
   "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.0/Oruscribe.Agente.exe",
-  "sha256": "7a46825d851d49165f6bc61eebe1cdad65e2f6aceefe65c89a2ef229d9e3f477",
-  "linux": "",
-  "linux_sha256": ""
+  "sha256": "553cf592fed1611b6b35249f181c9c2089eb0ceba77fd5fb8f3227a7a76522d7",
+  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.0/oruscribe-agente-0.6.0-linux-x86_64.tar.gz",
+  "linux_sha256": "b154a03aff07d4a87becee90ea4dac3d37467cd4aeb09f81ee3ad78226789a22"
 }
