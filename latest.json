@@ -1,8 +1,8 @@
 {
-  "version": "0.6.1",
-  "notes": "Linux: la ventana ya no queda negra y el instalador avisa si falta una biblioteca. Windows no cambia.",
-  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.1/Oruscribe.Agente.exe",
-  "sha256": "52ea9e0b5f9ba3b70ef09b3baeb4d6099ba9df324e003f6b440396faea96b781",
-  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.1/oruscribe-agente-0.6.1-linux-x86_64.tar.gz",
-  "linux_sha256": "28c20b8b33344f5114fcdbe29d2ebc8eba281f894f0de30d133296726ee947c8"
+  "version": "0.6.2",
+  "notes": "Arregla el candado de Linux, el autostart de Windows, los avisos en vivo, la reconexión del timbre y el tope de lecturas.",
+  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.2/Oruscribe.Agente.exe",
+  "sha256": "61e05ec813239a7e65cca19f847e2d82e5b14db373cced82aaebec5d2a6b2552",
+  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.2/oruscribe-agente-0.6.2-linux-x86_64.tar.gz",
+  "linux_sha256": "936e513a19c14066a629edccd2c45aec4582c886c475ad66b04cdb4f7b86a5ca"
 }
