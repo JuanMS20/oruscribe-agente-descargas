@@ -1,8 +1,8 @@
 {
-  "version": "0.6.2",
-  "notes": "Arregla el candado de Linux, el autostart de Windows, los avisos en vivo, la reconexión del timbre y el tope de lecturas.",
-  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.2/Oruscribe.Agente.exe",
-  "sha256": "61e05ec813239a7e65cca19f847e2d82e5b14db373cced82aaebec5d2a6b2552",
-  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.2/oruscribe-agente-0.6.2-linux-x86_64.tar.gz",
-  "linux_sha256": "936e513a19c14066a629edccd2c45aec4582c886c475ad66b04cdb4f7b86a5ca"
+  "version": "0.6.3",
+  "notes": "Arregla el login en Linux con llavero o archivo privado, el aviso de reconexión y la salida sin Administrador de tareas.",
+  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.3/Oruscribe.Agente.exe",
+  "sha256": "9d4833c76cb6687d26f115a088a93b619f4e69b8b056e77310300afa52c01713",
+  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.3/oruscribe-agente-0.6.3-linux-x86_64.tar.gz",
+  "linux_sha256": "001bedd0b5d991af86874f32cafa8a6f9b19d11b1c9ce1285e30cf84aecbe568"
 }
