@@ -1,8 +1,8 @@
 {
-  "version": "0.6.3",
-  "notes": "Arregla el login en Linux con llavero o archivo privado, el aviso de reconexión y la salida sin Administrador de tareas.",
-  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.3/Oruscribe.Agente.exe",
-  "sha256": "9d4833c76cb6687d26f115a088a93b619f4e69b8b056e77310300afa52c01713",
-  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.3/oruscribe-agente-0.6.3-linux-x86_64.tar.gz",
-  "linux_sha256": "001bedd0b5d991af86874f32cafa8a6f9b19d11b1c9ce1285e30cf84aecbe568"
+    "version":  "0.6.4",
+    "notes":  "Arregla el 401 al chatear con un token syn_, la ventana en Linux y el guardado de la sesion sin llavero. Incluye update con rollback, desinstalacion que conserva conversaciones y avisos del panel.",
+    "windows":  "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.4/Oruscribe.Agente.exe",
+    "sha256":  "c9b941fd57c2e6c12ee6f933b750f973c7d8b420d294bf5bf8dab4a2f6e2fc02",
+    "linux":  "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.4/oruscribe-agente-0.6.4-linux-x86_64.tar.gz",
+    "linux_sha256":  "51971fd9cea91c7b9c266e80045fa46709f6f5c48cac61c15ff555e40aad31b0"
 }
