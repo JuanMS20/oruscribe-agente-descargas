@@ -1,8 +1,8 @@
 {
-    "version":  "0.6.5",
-    "notes":  "Arregla el actualizador en Linux: ya no reemplaza el binario con el paquete, manda a instalarlo. Cerrar sesion cancela un login a medias. Aviso de openssl-3 en Arch y de claves guardadas en archivo 0600.",
-    "windows":  "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.5/Oruscribe.Agente.exe",
-    "sha256":  "2707a1972eeb05f5fbade057e103468525709d972a876deef51d516aacc90952",
-    "linux":  "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.5/oruscribe-agente-0.6.5-linux-x86_64.tar.gz",
-    "linux_sha256":  "edc78bf30dc3e84e71e715c9d813888af5394056656f37432558c2d5e16007f1"
+    "version":  "0.6.6",
+    "notes":  "Las metas y las decisiones vuelven a cargar con datos reales: el servidor manda null en pct y rationale y la app ya no rechaza la respuesta.",
+    "windows":  "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.6/Oruscribe.Agente.exe",
+    "sha256":  "6bbd52a6aaf8399dcc62315eefa59b9b89582f62f6474c2d9b7bc251403a2857",
+    "linux":  "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.6/oruscribe-agente-0.6.6-linux-x86_64.tar.gz",
+    "linux_sha256":  "62cae759b6d84428acdd182fe1a576343d4f6cc4a0d9e6a073d5c348cc8c641c"
 }
