@@ -1,8 +1,8 @@
 {
-    "version":  "0.6.4",
-    "notes":  "Arregla el 401 al chatear con un token syn_, la ventana en Linux y el guardado de la sesion sin llavero. Incluye update con rollback, desinstalacion que conserva conversaciones y avisos del panel.",
-    "windows":  "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.4/Oruscribe.Agente.exe",
-    "sha256":  "c9b941fd57c2e6c12ee6f933b750f973c7d8b420d294bf5bf8dab4a2f6e2fc02",
-    "linux":  "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.4/oruscribe-agente-0.6.4-linux-x86_64.tar.gz",
-    "linux_sha256":  "51971fd9cea91c7b9c266e80045fa46709f6f5c48cac61c15ff555e40aad31b0"
+    "version":  "0.6.5",
+    "notes":  "Arregla el actualizador en Linux: ya no reemplaza el binario con el paquete, manda a instalarlo. Cerrar sesion cancela un login a medias. Aviso de openssl-3 en Arch y de claves guardadas en archivo 0600.",
+    "windows":  "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.5/Oruscribe.Agente.exe",
+    "sha256":  "2707a1972eeb05f5fbade057e103468525709d972a876deef51d516aacc90952",
+    "linux":  "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.5/oruscribe-agente-0.6.5-linux-x86_64.tar.gz",
+    "linux_sha256":  "edc78bf30dc3e84e71e715c9d813888af5394056656f37432558c2d5e16007f1"
 }
