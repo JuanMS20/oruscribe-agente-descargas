@@ -1,8 +1,8 @@
 {
-    "version":  "0.6.7",
-    "notes":  "La actividad del panel vuelve a cargar: los eventos traen campos nulos y la app ya no rechaza la respuesta.",
-    "windows":  "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.7/Oruscribe.Agente.exe",
-    "sha256":  "9819cbe04b95468118e667f5dec91807566fd49b9f3bc34efcd9ea2ee87d83dc",
-    "linux":  "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.7/oruscribe-agente-0.6.7-linux-x86_64.tar.gz",
-    "linux_sha256":  "79905c0fc247d2d71db44ff18629cebea88d3c7252fcee0fb61f616bcf28d5af"
+  "version": "0.6.8",
+  "notes": "Auditoría pre-pilotos: asistente fiable (Anthropic, respuestas parciales, cerebro con reintentos), herramientas cancelables, doorbell y MCP, login e instaladores corregidos.",
+  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.8/Oruscribe.Agente.exe",
+  "sha256": "2f6ff4b1d865621ed628723991e5c96762f18f891bbfbae24a9fd168ede299c7",
+  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.8/oruscribe-agente-0.6.8-linux-x86_64.tar.gz",
+  "linux_sha256": "0907d37e7e370c3052c7e2181560a28618acc9e292e303a76122e57aef76b010"
 }
