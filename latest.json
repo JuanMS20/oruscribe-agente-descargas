@@ -1,8 +1,8 @@
 {
-  "version": "0.6.8",
-  "notes": "Auditoría pre-pilotos: asistente fiable (Anthropic, respuestas parciales, cerebro con reintentos), herramientas cancelables, doorbell y MCP, login e instaladores corregidos.",
-  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.8/Oruscribe.Agente.exe",
-  "sha256": "2f6ff4b1d865621ed628723991e5c96762f18f891bbfbae24a9fd168ede299c7",
-  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.8/oruscribe-agente-0.6.8-linux-x86_64.tar.gz",
-  "linux_sha256": "0907d37e7e370c3052c7e2181560a28618acc9e292e303a76122e57aef76b010"
+  "version": "0.6.10",
+  "notes": "Arreglos para los primeros pilotos de escritorio. Sin migracion de datos. Incluye los cambios de 0.6.9, que no llegaron a publicarse.\n\n- Al anadir una carpeta permitida en Windows, el selector nativo ya no se corta a los 40 s.\n- El boton \"Oir\" (leer en voz alta la respuesta del asistente) vuelve a funcionar.\n- \"El agente trabaja solo\" se guarda tambien con la IA de Oruscribe y respeta los topes por minuto, dia y tokens.\n- Salir de Chat detiene el sondeo aunque una respuesta viniera en camino.\n- Un fallo de red al leer herramientas MCP ya no consume el cupo de 15 lecturas por 3 minutos.\n- \"Instalar\" avisa si no puede abrir la copia instalada en vez de reportar exito.\n- El chat usa la organizacion configurada y la barra lateral permite elegir entre las organizaciones que ofrece el servidor.",
+  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.10/Oruscribe.Agente.exe",
+  "sha256": "97a9130fa7936f6c24beaf57f52d5491382f25ae85ef31344c05ea7dd1698f1e",
+  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.6.10/oruscribe-agente-0.6.10-linux-x86_64.tar.gz",
+  "linux_sha256": "bdd9ea83ff4e9f584596208ceca0b058010d5d86396f5793059140b52f504559"
 }
