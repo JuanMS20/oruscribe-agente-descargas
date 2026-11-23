@@ -1,8 +1,8 @@
 {
-  "version": "0.7.0",
-  "notes": "Actualizacion automatica tambien en Linux y aviso antes de entrar, con novedades y progreso de descarga. Arreglos de sesion, chat, agente y organizacion. Sin migracion de datos.",
-  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.7.0/Oruscribe.Agente.exe",
-  "sha256": "2748c6bc564da5850764b2b3d996e57f75a73c28b7e1f75d8056171d9c1077b1",
-  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.7.0/oruscribe-agente-0.7.0-linux-x86_64.tar.gz",
-  "linux_sha256": "9999260e9d7d0ff86a2727fe6cbc1b4e8ac13132ae881a92998f41a35530dd3f"
+  "version": "0.8.0",
+  "notes": "Arnes autonomo (Modo Turbo) por defecto con herramientas locales Pi (read, write, edit, bash) en Windows y Linux tambien con IA de Oruscribe; puente en 1 clic Tarea->Agente; visor de Cambios locales con deshacer; cuota dura MCP (60/min, 400/h) visible en Configuracion; voz sin configurar oculta; y actualizacion automatica reparada en Linux.",
+  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.8.0/Oruscribe.Agente.exe",
+  "sha256": "efd55950bcaf541cc3326ff1fe8f1ea408f3841211dfad3f6f76b78e5a91fbef",
+  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.8.0/oruscribe-agente-0.8.0-linux-x86_64.tar.gz",
+  "linux_sha256": "cab0686fab76decfc3e5bb82a341974034f6cdb7523ff711e235f70a598e6f41"
 }
