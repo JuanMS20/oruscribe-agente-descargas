@@ -1,8 +1,8 @@
 {
-  "version": "0.8.0",
-  "notes": "Arnes autonomo (Modo Turbo) por defecto con herramientas locales Pi (read, write, edit, bash) en Windows y Linux tambien con IA de Oruscribe; puente en 1 clic Tarea->Agente; visor de Cambios locales con deshacer; cuota dura MCP (60/min, 400/h) visible en Configuracion; voz sin configurar oculta; y actualizacion automatica reparada en Linux.",
-  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.8.0/Oruscribe.Agente.exe",
-  "sha256": "efd55950bcaf541cc3326ff1fe8f1ea408f3841211dfad3f6f76b78e5a91fbef",
-  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.8.0/oruscribe-agente-0.8.0-linux-x86_64.tar.gz",
-  "linux_sha256": "cab0686fab76decfc3e5bb82a341974034f6cdb7523ff711e235f70a598e6f41"
+  "version": "0.8.1",
+  "notes": "Arnes local Pi conserva el PATH real del usuario (Python, Node, pip, Cargo); protocolo orus-tool libre de fugas DSML; migracion automatica a modo Autonomo (Turbo); cabecera del chat sin solapamientos ni burbujas intermedias; auto-actualizador cada 30 min.",
+  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.8.1/Oruscribe.Agente.exe",
+  "sha256": "0c9342d3d491c693f613ba6b4295e0ea8d8e2831ee9748d551ae6e374a0cb49f",
+  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.8.1/oruscribe-agente-0.8.1-linux-x86_64.tar.gz",
+  "linux_sha256": "f006aaeaaefc28999b304ba25bbf29013a0d4269a72f83c0bdd456a2836cfe10"
 }
