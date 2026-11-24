@@ -1,8 +1,8 @@
 {
-  "version": "0.8.1",
-  "notes": "Arnes local Pi conserva el PATH real del usuario (Python, Node, pip, Cargo); protocolo orus-tool libre de fugas DSML; migracion automatica a modo Autonomo (Turbo); cabecera del chat sin solapamientos ni burbujas intermedias; auto-actualizador cada 30 min.",
-  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.8.1/Oruscribe.Agente.exe",
-  "sha256": "0c9342d3d491c693f613ba6b4295e0ea8d8e2831ee9748d551ae6e374a0cb49f",
-  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.8.1/oruscribe-agente-0.8.1-linux-x86_64.tar.gz",
-  "linux_sha256": "f006aaeaaefc28999b304ba25bbf29013a0d4269a72f83c0bdd456a2836cfe10"
+  "version": "0.8.2",
+  "notes": "Apertura nativa de navegador en Windows (ShellExecuteW) y Linux (BROWSER/xdg-open/gio/navegadores) con boton Abrir y Copiar enlace siempre visibles; permisos de microfono corregidos en Linux WebKitGTK y fallback audio; validacion JWT para IA de Oruscribe; incluye correcciones de seguridad y estabilidad del PR #163.",
+  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.8.2/Oruscribe.Agente.exe",
+  "sha256": "3fd9a53c090ea12d3112d796ba0ab1fd17d0004b0e779c246de8737379f3366e",
+  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.8.2/oruscribe-agente-0.8.2-linux-x86_64.tar.gz",
+  "linux_sha256": "cf2124999fa70a401004399820a9952daacc8e62120d1fdd33466e45ab7eb6a3"
 }
