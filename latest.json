@@ -1,8 +1,8 @@
 {
-  "version": "0.8.2",
-  "notes": "Apertura nativa de navegador en Windows (ShellExecuteW) y Linux (BROWSER/xdg-open/gio/navegadores) con boton Abrir y Copiar enlace siempre visibles; permisos de microfono corregidos en Linux WebKitGTK y fallback audio; validacion JWT para IA de Oruscribe; incluye correcciones de seguridad y estabilidad del PR #163.",
-  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.8.2/Oruscribe.Agente.exe",
-  "sha256": "3fd9a53c090ea12d3112d796ba0ab1fd17d0004b0e779c246de8737379f3366e",
-  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.8.2/oruscribe-agente-0.8.2-linux-x86_64.tar.gz",
-  "linux_sha256": "cf2124999fa70a401004399820a9952daacc8e62120d1fdd33466e45ab7eb6a3"
+  "version": "0.8.3",
+  "notes": "Integracion completa de robustez (llavero/sesion/organizacion en Linux, bandeja resistente a panic y host D-Bus real, avisos visibles y GLIBC_BASELINE en install.sh, bash/timeout/carpetas locales endurecidos, estados de sesion en frontend) y telemetria automatica redactada hacia Sentry activa por defecto con interruptor en Ajustes. Backend: sin cambios.",
+  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.8.3/Oruscribe.Agente.exe",
+  "sha256": "cafd35ae525e5324fb6ecdfde56e6141f0f55a9f8b3d59d8920e8593f9257f59",
+  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.8.3/oruscribe-agente-0.8.3-linux-x86_64.tar.gz",
+  "linux_sha256": "f735f4abda7d50000b34de06ef4a5d8ecfbb7dd5397cb13ea5c00afc94db1d13"
 }
