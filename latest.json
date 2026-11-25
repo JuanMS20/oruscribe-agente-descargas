@@ -1,8 +1,8 @@
 {
-  "version": "0.8.3",
-  "notes": "Integracion completa de robustez (llavero/sesion/organizacion en Linux, bandeja resistente a panic y host D-Bus real, avisos visibles y GLIBC_BASELINE en install.sh, bash/timeout/carpetas locales endurecidos, estados de sesion en frontend) y telemetria automatica redactada hacia Sentry activa por defecto con interruptor en Ajustes. Backend: sin cambios.",
-  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.8.3/Oruscribe.Agente.exe",
-  "sha256": "cafd35ae525e5324fb6ecdfde56e6141f0f55a9f8b3d59d8920e8593f9257f59",
-  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.8.3/oruscribe-agente-0.8.3-linux-x86_64.tar.gz",
-  "linux_sha256": "f735f4abda7d50000b34de06ef4a5d8ecfbb7dd5397cb13ea5c00afc94db1d13"
+  "version": "0.8.4",
+  "notes": "Chat: continua tras un fallo reintenta si el proveedor devuelve vacio; bloques orus-tool rotos vuelven al modelo como error; bash con timeout y salida con final conservado. Telemetria activada por defecto (apagable en Ajustes). Linux: instalador encuentra ldconfig; arreglos de listado de carpetas. Backend: sin cambios.",
+  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.8.4/Oruscribe.Agente.exe",
+  "sha256": "fe7869ab936f22bdde5cb9e55c6d12c03169616a877e569985b653c19372eaab",
+  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.8.4/oruscribe-agente-0.8.4-linux-x86_64.tar.gz",
+  "linux_sha256": "a9017fdd89960057832b9eb52061dc929ab5536f6570bc99e1be1a82df4556e3"
 }
