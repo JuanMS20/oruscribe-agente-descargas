@@ -1,8 +1,8 @@
 {
-  "version": "0.8.4",
-  "notes": "Chat: continua tras un fallo reintenta si el proveedor devuelve vacio; bloques orus-tool rotos vuelven al modelo como error; bash con timeout y salida con final conservado. Telemetria activada por defecto (apagable en Ajustes). Linux: instalador encuentra ldconfig; arreglos de listado de carpetas. Backend: sin cambios.",
-  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.8.4/Oruscribe.Agente.exe",
-  "sha256": "fe7869ab936f22bdde5cb9e55c6d12c03169616a877e569985b653c19372eaab",
-  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.8.4/oruscribe-agente-0.8.4-linux-x86_64.tar.gz",
-  "linux_sha256": "a9017fdd89960057832b9eb52061dc929ab5536f6570bc99e1be1a82df4556e3"
+  "version": "0.8.5",
+  "notes": "Chat sin bloqueos, herramientas mas robustas y arreglos de Linux",
+  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.8.5/Oruscribe.Agente.exe",
+  "sha256": "c6b495f9e179d4beb61ac4b451e7637d1bfee48d48a5a02b7a59347a5e39b542",
+  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.8.5/oruscribe-agente-0.8.5-linux-x86_64.tar.gz",
+  "linux_sha256": "eb9f4370ca0b97758cbd6bd1dc4c80657c4862d07697977b6be2a17472b5f727"
 }
