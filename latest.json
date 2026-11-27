@@ -1,8 +1,8 @@
 {
-  "version": "0.8.6",
-  "notes": "Errores 400, edicion CRLF y secretos en Linux sin llavero",
-  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.8.6/Oruscribe.Agente.exe",
-  "sha256": "13209afde5525866b586b15f335ce05925bbbf17604a4c5ee649de6c723428db",
-  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.8.6/oruscribe-agente-0.8.6-linux-x86_64.tar.gz",
-  "linux_sha256": "08b05c6a2fd335bd6b5c40bb386ec0bc0307f20dd637ffb7e8fab47c27580e2c"
+  "version": "0.8.7",
+  "notes": "0.8.7 endurece permisos, aísla conversaciones por usuario y organización, comparte el presupuesto de tokens y mejora la recuperación de Linux. Windows se publica sin certificado Authenticode por excepción explícita: puede mostrar editor desconocido y SmartScreen puede bloquear la instalación. El manifiesto está firmado con Ed25519 y los hashes se verifican.",
+  "windows": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.8.7/Oruscribe.Agente.exe",
+  "sha256": "6ef38599a40a2c5ef54dcc1536fd5a63c7e3a8eddadacb41d5e235f1c27ca638",
+  "linux": "https://github.com/JuanMS20/oruscribe-agente-descargas/releases/download/v0.8.7/oruscribe-agente-0.8.7-linux-x86_64.tar.gz",
+  "linux_sha256": "4f9424259752ef89a2c98f2300849b650f7310f1fcb82c80190bf70804c4a79e"
 }
